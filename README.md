@@ -6,10 +6,12 @@ En el 2019 también comencé a trabajar en una empresa SaaS, donde primero hice 
 
 Dejo fotito por aca
 
-![yo][foto-mia.jpg]
+![yo](https://i.postimg.cc/K8ksd3cb/foto-mia.jpg)
 
 Para ir cerrando y como vi que muchos otros presentaron a sus mascotas, quisiera presentarles la mía:
 
-![mi mascota][simon.jpg]
+![mi mascota](https://i.postimg.cc/zXfQFP9V/simon.jpg)
 
 Su nombre es Simon, lo adoptamos cuando tenia menos de 1 año y ahora en mayo ya cumple los 3 años. En la foto se lo ve tranquilo, pero ahi solo esta disimulando. Realmente es un tornado: muerde todo, destruye todo, tira como loco cuando lo sacan a pasear y encima tiene una tremenda fuerza. Pero bueno, por fuera de todo eso, nosotros lo queremos igual 😂
+
+Saludos a todos!
